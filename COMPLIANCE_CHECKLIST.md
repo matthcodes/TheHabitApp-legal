@@ -26,9 +26,14 @@
 ## ⚠️ Action Required - You Must Complete
 
 ### 1. Replace Placeholder Information
-- [ ] Replace `[Your Company Address, Netherlands]` with your actual business address in all files
-- [ ] Update email addresses if different from the defaults
-- [ ] Add Data Protection Officer (DPO) contact if you process large amounts of data or special categories
+- [ ] Replace `[Your Name]` with your actual name
+- [ ] Replace `[Your Email Address]` with your actual email address in all files (can be any email you use - Gmail, GitHub email, etc.)
+- [ ] Replace `[Your Address]` with your address (see options below)
+  - **Option 1:** Full address (most compliant)
+  - **Option 2:** PO Box (privacy-friendly, GDPR compliant)
+  - **Option 3:** Virtual business address (available in Netherlands)
+  - **Option 4:** City and country only (may work for very small operations, but verify with a lawyer)
+- [ ] Note: You don't need a Data Protection Officer (DPO) unless you process large amounts of data or special categories
 
 ### 2. Customize for Your Business
 - [ ] Review and customize data collection sections to match what you actually collect
@@ -51,9 +56,10 @@
 - [ ] Consider registering terms and conditions with KVK (Netherlands Chamber of Commerce)
 - [ ] Review if you need additional policies (e.g., EULA for mobile apps)
 
-### 5. Business Registration
-- [ ] Ensure your business is registered with KVK (Kamer van Koophandel)
-- [ ] Include your KVK registration number in legal documents if required
+### 5. Business Registration (If Applicable)
+- [ ] If you're operating as a business (even as a sole proprietor), you may need to register with KVK (Kamer van Koophandel) in the Netherlands
+- [ ] If registered, include your KVK registration number in legal documents
+- [ ] Note: As an individual developer, you may not need KVK registration if you're not running a formal business
 
 ## 📋 Additional Considerations
 

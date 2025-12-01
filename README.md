@@ -1,18 +1,17 @@
-# HabitFlow Legal Documents
+# Legal Documents Repository
 
-This repository contains the legal documents for HabitFlow, including Privacy Policy, Terms and Conditions, and Cookie Policy.
+This repository contains legal documents including Privacy Policy, Terms and Conditions, and Cookie Policy.
 
 ## 📁 File Structure
 
 ```
-habitflow-legal/
+legal-documents/
 ├── index.html                    # Landing page with links to all documents
 ├── privacy-policy.html          # Privacy Policy
 ├── terms-and-conditions.html    # Terms and Conditions
 ├── cookie-policy.html           # Cookie Policy
 ├── css/
 │   └── style.css               # Styling for all pages
-├── CNAME                        # Custom domain configuration
 └── README.md                    # This file
 ```
 
@@ -26,46 +25,40 @@ habitflow-legal/
    - **Branch**: `main` (or `master`)
    - **Folder**: `/ (root)`
 4. Click **Save**
-5. Your site will be available at: `https://yourusername.github.io/habitflow-legal/`
+5. Your site will be available at: `https://yourusername.github.io/[repository-name]/`
 
-### Step 2: Custom Domain (Optional)
+   For example, if your repository is `TheHabitApp-legal` and your username is `matthcodes`, 
+   your site will be at: `https://matthcodes.github.io/TheHabitApp-legal/`
 
-If you want to use a custom domain like `legal.habitflow.com`:
+### Step 2: Custom Domain (Optional - Skip if not needed)
 
-1. **Purchase a domain** (if you haven't already)
-   - Recommended: `legal.habitflow.com` or `docs.habitflow.com`
-
-2. **Add CNAME file** (already included in this repo)
-   - The `CNAME` file contains your custom domain
-   - Update it with your actual domain name
-
-3. **Configure DNS** with your domain provider:
-   - **Type**: `CNAME`
-   - **Name**: `legal` (or `docs`)
-   - **Value**: `yourusername.github.io`
-   - **TTL**: 3600 (or default)
-
-4. **Update GitHub Pages settings**:
-   - In repository Settings → Pages
-   - Enter your custom domain in the "Custom domain" field
-   - GitHub will automatically create/update the CNAME file
-
-5. **Wait for DNS propagation** (can take up to 48 hours, usually much faster)
+If you later want to use a custom domain, you can:
+1. Purchase a domain
+2. Create a `CNAME` file in the repository root with your domain
+3. Configure DNS with your domain provider
+4. Update GitHub Pages settings to use your custom domain
 
 ## 📝 Customization
 
 ### Update Contact Information
 
 Edit the following files and replace placeholder text:
-- `privacy-policy.html` - Update email and address in section 9
+- `privacy-policy.html` - Update name, email and address in section 13
 - `terms-and-conditions.html` - Update email and address in section 13
 - `cookie-policy.html` - Update email and address in section 9
 
-### Update Company Information
+### Update Personal Information
 
 Search and replace:
-- `[Your Company Address]` with your actual address
-- `[Your Jurisdiction]` in terms-and-conditions.html with your legal jurisdiction
+- `[Your Name]` with your actual name
+- `[Your Email Address]` with your actual email address (can be a Gmail, GitHub email, or any email you use)
+- `[Your Address]` - **Address options:**
+  - **Full address** (recommended for GDPR compliance)
+  - **PO Box** (privacy-friendly alternative)
+  - **Virtual business address** (available in Netherlands)
+  - **City and country only** (may be acceptable for very small operations, but check with a lawyer)
+  
+  **Note:** GDPR generally requires a contact address, but you can use privacy-friendly alternatives like a PO Box or virtual address instead of your home address.
 
 ### Styling
 
@@ -88,5 +81,5 @@ If you find any issues or have suggestions for improvements, please open an issu
 
 ## 📞 Support
 
-For questions about these legal documents, contact: legal@habitflow.com
+For questions about these legal documents, contact: [Your Email Address]
 
