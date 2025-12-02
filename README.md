@@ -1,6 +1,6 @@
 # Legal Documents Repository
 
-This repository contains legal documents including Privacy Policy, Terms and Conditions, and Cookie Policy.
+This repository contains legal documents for a mobile app, including Privacy Policy and Terms and Conditions.
 
 ## 📁 File Structure
 
@@ -9,7 +9,6 @@ legal-documents/
 ├── index.html                    # Landing page with links to all documents
 ├── privacy-policy.html          # Privacy Policy
 ├── terms-and-conditions.html    # Terms and Conditions
-├── cookie-policy.html           # Cookie Policy
 ├── css/
 │   └── style.css               # Styling for all pages
 └── README.md                    # This file
@@ -45,7 +44,6 @@ If you later want to use a custom domain, you can:
 Edit the following files and replace placeholder text:
 - `privacy-policy.html` - Update name, email and address in section 13
 - `terms-and-conditions.html` - Update email and address in section 13
-- `cookie-policy.html` - Update email and address in section 9
 
 ### Update Personal Information
 
@@ -81,5 +79,5 @@ If you find any issues or have suggestions for improvements, please open an issu
 
 ## 📞 Support
 
-For questions about these legal documents, contact: [Your Email Address]
+For questions about these legal documents, contact: thehabitapp@proton.me
 
