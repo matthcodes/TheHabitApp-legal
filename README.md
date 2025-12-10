@@ -2,14 +2,11 @@
 
 Legal documents for The Habit App, hosted on GitHub Pages.
 
-## Documents
-
-- [Privacy Policy](privacy-policy.html)
-- [Terms of Use](terms-and-conditions.html)
-
 ## Live Site
 
-https://matthcodes.github.io/TheHabitApp-legal/
+- [Landing Page](https://matthcodes.github.io/TheHabitApp-legal/)
+- [Privacy Policy](https://matthcodes.github.io/TheHabitApp-legal/privacy-policy.html)
+- [Terms of Use](https://matthcodes.github.io/TheHabitApp-legal/terms-and-conditions.html)
 
 ## Repository
 
